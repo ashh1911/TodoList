@@ -1,8 +1,8 @@
-# ✅ To-Do List Web App
+# To-Do List Web App
 
 A simple, stylish, and interactive to-do list web application built using HTML, CSS, and JavaScript.
 
-## 🚀 Features
+## Features
 
 - Add new tasks easily
 - Mark tasks as completed with a green tick (✅)
@@ -10,7 +10,7 @@ A simple, stylish, and interactive to-do list web application built using HTML, 
 - Instant UI updates without reloading
 - Clean, modern UI with smooth styles and transitions
 
-## 🖼️ Preview
+##  Preview
 (![alt text](image.png))
 
 ## 🛠️ Technologies Used
@@ -19,7 +19,7 @@ A simple, stylish, and interactive to-do list web application built using HTML, 
 - CSS3 (with gradient backgrounds and animations)
 - Vanilla JavaScript (ES6+)
 
-## 📁 Folder Structure
+## Folder Structure
 
 todo-list-app/
 ├── index.html # Main HTML file
@@ -28,17 +28,17 @@ todo-list-app/
 └── README.md # Project documentation
 
 
-## 💡 How to Use
+## How to Use
 
 1. **Clone or download** this repository.
 2. Open the `index.html` file in any modern browser.
 3. Start adding your tasks!
 
-## 📸 Screenshots
+## Screenshots
 
 > (![alt text](image.png))
 
-## ✨ Future Improvements (Optional Ideas)
+## Future Improvements (Optional Ideas)
 
 - Save tasks to localStorage
 - Add due dates and categories
