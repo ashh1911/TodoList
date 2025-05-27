@@ -11,8 +11,7 @@ A simple, stylish, and interactive to-do list web application built using HTML, 
 - Clean, modern UI with smooth styles and transitions
 
 ## 🖼️ Preview
-
-![Preview](![alt text](image.png))
+(![alt text](image.png))
 
 ## 🛠️ Technologies Used
 
@@ -37,9 +36,7 @@ todo-list-app/
 
 ## 📸 Screenshots
 
-> Add a screenshot of the UI here to showcase the design. Example:
->
-> ![screenshot](![alt text](image.png))
+> (![alt text](image.png))
 
 ## ✨ Future Improvements (Optional Ideas)
 
